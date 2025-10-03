@@ -1,10 +1,10 @@
-package art.cookedincode.springdatarest;
+package art.cookedincode.restbrewery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringdatarestApplicationTests {
+class RestBreweryApplicationTests {
 
 	@Test
 	void contextLoads() {
